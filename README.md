@@ -19,7 +19,7 @@ This box comes with everything you need to start a truffle project with Travis-c
     ```
 2. Download the box.
     ```javascript
-    truffle unbox ci-box
+    truffle unbox truffle-ci-box
     ```
 3. Create a `.env` file in the root directory and add your private key.
     ```

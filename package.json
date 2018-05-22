@@ -21,7 +21,7 @@
     "CI",
     "box"
   ],
-  "author": "Nicolas Frega",
+  "author": "Nicolas Frega - <https://github.com/NFhbar>",
   "license": "MIT",
   "devDependencies": {
     "babel-eslint": "8.2.3",
