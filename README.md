@@ -1,4 +1,4 @@
-# CI Truffle Box
+# Truffle CI Box
 
 <div>
 
@@ -19,18 +19,13 @@ This box comes with everything you need to start a truffle project with Travis-c
     ```
 2. Download the box.
     ```javascript
-    truffle unbox integration-box
+    truffle unbox ci-box
     ```
 3. Create a `.env` file in the root directory and add your private key.
     ```
     RINKEBY_PRIVATE_KEY="MyPrivateKeyHere..."
     ROPSTEN_PRIVATE_KEY="MyPrivateKeyHere..."
     ```
-    If you don't have a private key, you can use one provided by Ganache (for development only!):
-    ```
-    RINKEBY_PRIVATE_KEY="c87509a1c067bbde78beb793e6fa76530b6382a4c0241e5e4a9ec0a0f44dc0d3"
-    ROPSTEN_PRIVATE_KEY="c87509a1c067bbde78beb793e6fa76530b6382a4c0241e5e4a9ec0a0f44dc0d3"
-```
 4. Update the Travis and Coveralls badges in the `README` file to point to your own repository.
 
-5. Change any lint or solium rules that you like, and feel free to modifify the scripts or anything else you want!
+5. Change any lint or solium rules that you like, and feel free to modify the scripts or anything else you want!
