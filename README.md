@@ -3,7 +3,7 @@
 <div>
 
 [![Build Status](https://travis-ci.org/NFhbar/truffle-ci-box.svg?branch=master)](https://travis-ci.org/NFhbar/truffle-ci-box)
-[![Coverage Status](https://coveralls.io/repos/github/NFhbar/truffle-ci-box/badge.svg?branch=master)](https://coveralls.io/github/NFhbar/truffle-ci-box-faucet?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/NFhbar/truffle-ci-box/badge.svg?branch=master)](https://coveralls.io/github/NFhbar/truffle-ci-box?branch=master)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/NFhbar/truffle-ci-box/pulls)
 
 </div>
