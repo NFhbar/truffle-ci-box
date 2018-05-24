@@ -10,7 +10,7 @@
 
 This box comes with everything you need to start a truffle project with Travis-ci and Coveralls integration. It also includes solium, eslint, and several common testing helpers.
 
-## Instalation
+## Installation
 
 1. Install Truffle and Ganache CLI globally.
     ```javascript
@@ -19,7 +19,7 @@ This box comes with everything you need to start a truffle project with Travis-c
     ```
 2. Download the box.
     ```javascript
-    truffle unbox truffle-ci-box
+    truffle unbox NFhbar/truffle-ci-box
     ```
 3. Create a `.env` file in the root directory and add your private key.
     ```
